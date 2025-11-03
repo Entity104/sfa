@@ -6,6 +6,7 @@
 #include<math.h>
 #include<cctype>
 
+//useless comment
 using namespace std;
 
 #define STATUS_ERROR -1
